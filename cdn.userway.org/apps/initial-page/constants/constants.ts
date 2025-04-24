@@ -1,0 +1,12 @@
+export const WHITE_LABEL = 'WHITE_LABEL';
+export const CUSTOM_BRANDING = 'CUSTOM_BRANDING';
+export const MODIFY_MENU = 'MODIFY_MENU';
+export const LIVE_TRANSLATIONS = 'LIVE_TRANSLATIONS';
+export const VOICE_NAVIGATION = 'VOICE_NAVIGATION';
+export const USAGE_STATS = 'USAGE_STATS';
+export const REMEDIATION = 'REMEDIATION';
+export const INITIAL_PAGE_STATE = 'main.home';
+export const REPORT_PAGE_STATE = 'main.report';
+export const ABOUT_STATE = 'main.about';
+export const HOW_IT_WORKS_STATE = 'main.how_it_works';
+export const LOGIN_STATE = 'main.login';
