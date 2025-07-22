@@ -484,8 +484,10 @@ h2.location {
     margin: 0 0 10px;
     color: #fff;
     font-weight: 700;
-    font-size: 2.25em
+    font-size: 2.25em;
+    text-shadow: -1px -1px 0 #9f9d9d, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
 }
+
 
 .hero p {
     color: #fff;
@@ -929,9 +931,14 @@ body {
     color: #2b6275
 }
 
+.mega-subtitle p, rte-setting p{
+    color: #fff ;
+     text-shadow: -1px -1px 0 #9f9d9d, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
+}
 .hero p,
 footer p {
     color: #fff !important
+
 }
 
 .input-group .input-group-field {
