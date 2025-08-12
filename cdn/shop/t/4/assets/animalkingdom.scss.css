@@ -193,6 +193,7 @@ h2.location {
     color: #bd8c59
 }
 
+
 .site-header .search-bar input[type=text]:hover,
 .site-header .search-bar input[type=text]:focus,
 .site-header .search-bar input[type=search]:hover,
@@ -1007,6 +1008,10 @@ h2.location,
 .main-content .h4,
 .main-content h5,
 .main-content .h5 {
+    color: #94c74a
+}
+
+h3.location {
     color: #94c74a
 }
 
